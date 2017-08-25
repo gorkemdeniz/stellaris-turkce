@@ -6,6 +6,7 @@
  l_spanish:0 "Spanish"
  l_polish:0 "Polish"
  l_russian:0 "Russian"
+ l_turkish:0 "Turkish"
 l_braz_por:
  l_english:0 "Inglês"
  l_braz_por:0 "Português do Brasil"
@@ -14,6 +15,7 @@ l_braz_por:
  l_spanish:0 "Espanhol"
  l_polish:0 "Polonês"
  l_russian:0 "Russo"
+ l_turkish:0 "Turco"
 l_german:
  l_english:0 "Englisch"
  l_braz_por:0 "Brasilianisches Portugiesisch"
@@ -22,6 +24,7 @@ l_german:
  l_spanish:0 "Spanisch"
  l_polish:0 "Politur"
  l_russian:0 "Russisch"
+ l_turkish:0 "Türkisch"
 l_french:
  l_english:0 "Anglais"
  l_braz_por:0 "Portugais Brésilien"
@@ -30,6 +33,7 @@ l_french:
  l_spanish:0 "Espagnol"
  l_polish:0 "Polonais"
  l_russian:0 "Russe"
+ l_turkish:0 "Turc"
 l_spanish:
  l_english:0 "Inglés"
  l_braz_por:0 "Portugués Brasileño"
@@ -38,6 +42,7 @@ l_spanish:
  l_spanish:0 "Español"
  l_polish:0 "Polaco"
  l_russian:0 "Rusia"
+ l_turkish:0 "Turco"
 l_polish:
  l_english:0 "Angielski"
  l_braz_por:0 "Portugalski brazylijski"
@@ -46,6 +51,7 @@ l_polish:
  l_spanish:0 "Hiszpański"
  l_polish:0 "Polski"
  l_russian:0 "Rosyjski"
+ l_turkish:0 "Turecki"
 l_russian:
  l_english:0 "Английский"
  l_braz_por:0 "Бразильский португальский"
@@ -54,3 +60,13 @@ l_russian:
  l_spanish:0 "Испанский"
  l_polish:0 "Польский"
  l_russian:0 "Русский"
+ l_turkish:0 "турецкий"
+l_turkish:
+ l_english:0 "İngilizce"
+ l_braz_por:0 "Brezilyalı Portekizcesi"
+ l_german:0 "Almanca"
+ l_french:0 "Fransızca"
+ l_spanish:0 "İspanyolca"
+ l_polish:0 "Lehçe"
+ l_russian:0 "Rusça"
+ l_turkish:0 "Türkçe"
