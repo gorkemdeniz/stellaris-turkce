@@ -1,6 +1,0 @@
-
-music = {
-	name = "launcher_music"
-	file = "/music/thebirthofastar.ogg"
-	volume = 0.42
-}
