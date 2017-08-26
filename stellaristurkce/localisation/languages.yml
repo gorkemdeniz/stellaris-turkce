@@ -4,7 +4,7 @@
  l_german:0 "German"
  l_french:0 "French"
  l_spanish:0 "Spanish"
- l_turkish:0 "Turkish"
+ l_polish:0 "Turkish"
  l_russian:0 "Russian"
 l_braz_por:
  l_english:0 "Inglês"
@@ -12,7 +12,7 @@ l_braz_por:
  l_german:0 "Alemão"
  l_french:0 "Francês"
  l_spanish:0 "Espanhol"
- l_turkish:0 "Turco"
+ l_polish:0 "Turco"
  l_russian:0 "Russo"
 l_german:
  l_english:0 "Englisch"
@@ -20,7 +20,7 @@ l_german:
  l_german:0 "Deutsch"
  l_french:0 "Französisch"
  l_spanish:0 "Spanisch"
- l_turkish:0 "Türkisch"
+ l_polish:0 "Türkisch"
  l_russian:0 "Russisch"
 l_french:
  l_english:0 "Anglais"
@@ -28,7 +28,7 @@ l_french:
  l_german:0 "Allemand"
  l_french:0 "Français"
  l_spanish:0 "Espagnol"
- l_turkish:0 "Turc"
+ l_polish:0 "Turc"
  l_russian:0 "Russe"
 l_spanish:
  l_english:0 "Inglés"
@@ -36,7 +36,7 @@ l_spanish:
  l_german:0 "Alemán"
  l_french:0 "Francés"
  l_spanish:0 "Español"
- l_turkish:0 "Turco"
+ l_polish:0 "Turco"
  l_russian:0 "Rusia"
 l_polish:
  l_english:0 "Angielski"
@@ -44,7 +44,7 @@ l_polish:
  l_german:0 "Niemiecki"
  l_french:0 "Francuski"
  l_spanish:0 "Hiszpański"
- l_turkish:0 "Turecki"
+ l_polish:0 "Turecki"
  l_russian:0 "Rosyjski"
 l_russian:
  l_english:0 "Английский"
@@ -52,5 +52,5 @@ l_russian:
  l_german:0 "Немецкий"
  l_french:0 "Французский"
  l_spanish:0 "Испанский"
- l_turkish:0 "турецкий"
+ l_polish:0 "турецкий"
  l_russian:0 "Русский"
