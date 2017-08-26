@@ -1,9 +1,10 @@
-﻿l_english:
- ENTERING_GAME_LOBBY:0 "Entering Game Setup"
- SERVER_LAUNCHING_MP:0 "Launching Multiplayer"
- SERVER_NAME:0 "Server Name: $NAME$"
- SERVER_PASSWORD:0 "Server Password: $PASSWORD$"
- LAUNCHING_GAME:0 "Launching Game"
- STANDALONE_WAITING_FOR_PLAYERS:0 "Waiting for $NUM$ Players"
- RECEIVED_GAMESERVER_ID:0 "Received Server ID: $SERVERID$"
- RECEIVED_LOBBY_SERVER:0 "Received Lobby Server"
+﻿l_polish:
+ ENTERING_GAME_LOBBY:0 "Oyun Kurulumuna Giriliyor"
+ SERVER_LAUNCHING_MP:0 "Çokoyunculu Başlatılıyor"
+ SERVER_NAME:0 "Sunucu Adı: $NAME$"
+ SERVER_PASSWORD:0 "Sunucu Şifresi: $PASSWORD$"
+ LAUNCHING_GAME:0 "Oyun Başlatılıyor"
+ STANDALONE_WAITING_FOR_PLAYERS:0 "$NUM$ Oyuncu için Bekleniyor"
+ RECEIVED_GAMESERVER_ID:0 "Alınan Sunucu Kimliği: $SERVERID$"
+ RECEIVED_LOBBY_SERVER:0 "Alınan Lobi Sunucusu"
+# Stellaris Turkce
