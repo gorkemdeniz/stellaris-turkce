@@ -1,53 +1,53 @@
-﻿l_english:
+﻿l_polish:
  ####################################
  # Misc
  ####################################
  SEPARATOR:0 "---"
  
- PLAYER_EMPIRE:0 "§Y$NAME$ (Player)§!"
+ PLAYER_EMPIRE:0 "§Y$NAME$ (Oyuncu)§!"
 
- STATION:0 "Station"
+ STATION:0 "İstasyon"
  TRIGGER_PASS:1 "£trigger_yes "
  TRIGGER_FAIL:1 "£trigger_no "
  ICON_COLOR_VALUE:0 "£$ICON$ $VALUE|0$"
  ICON_VALUE_POSITIVE:0 "£$ICON$ $VALUE|0+=$"
  ICON_VALUE_NEGATIVE:0 "£$ICON$ $VALUE|0-$"
  
- TRAIT_CHARISMATIC_EFFECT:0 "Ruler Opinion Impact: §G+25§!"
- TRAIT_REPUGNANT_EFFECT:0 "Ruler Opinion Impact: §R-25§!"
+ TRAIT_CHARISMATIC_EFFECT:0 "Liderin Görüşüne Etkisi: §G+25§!"
+ TRAIT_REPUGNANT_EFFECT:0 "Liderin Görüşüne Etkisi: §R-25§!"
  
- CANNOT_ENLIGHTEN_FANATIC_XENOPHOBE:0 "Not possible to technologically enlighten Primitives that are §H$ethic_fanatic_xenophobe$§!."
+ CANNOT_ENLIGHTEN_FANATIC_XENOPHOBE:0 "§H$ethic_fanatic_xenophobe$§! olan İlkelleri teknolojik olarak aydınlatmak mümkün değildir."
  
- FOOD_SURPLUS_STARVATION:0 "§ROur empire is starving, halting all Pop growth.§!"
- FOOD_SURPLUS_NONE:0 "§YWe are currently stockpiling Food. Until our stockpile is full we will get no bonus Pop growth.§!"
- FOOD_SURPLUS:0 "§GOur monthly Food surplus increases the speed of all Pop growth by §Y$AMT$%§!.§!"
- FROM_FOOD_SURPLUS:0 "From Food Surplus: §Y+$VALUE$§!"
+ FOOD_SURPLUS_STARVATION:0 "§Rİmparatorluğumuz açlıktan ölüyor, tüm Pop büyümesi durduruldu.§!"
+ FOOD_SURPLUS_NONE:0 "§YŞu anda Yiyecekleri stoklamaktayız. Stokumuz dolana kadar, Pop büyümesi bonusu alamayız.§!"
+ FOOD_SURPLUS:0 "§GAylık Gıda fazlası tüm Pop büyümesinin hızını §Y$AMT$%§! oranında artırıyor.§!"
+ FROM_FOOD_SURPLUS:0 "Gıda Fazlasından Gelen: §Y+$VALUE$§!"
 
- SPECIES_LACKS_OPTION:0 "§RYour chosen Species Appearance does not offer any secondary options in this category.§!"
+ SPECIES_LACKS_OPTION:0 "§RSeçtiğiniz Türlerin Görünümü bu kategoride herhangi bir ikincil seçenek sunmuyor.§!"
 
- ALL:0 "All"
+ ALL:0 "Tümü"
  
- TERRAFORMING_CANDIDATE_EFFECT:0 "§Y[From.GetName]§! will be able to be terraformed once the £society  §H$tech_climate_restoration$§! technology has been researched."
+ TERRAFORMING_CANDIDATE_EFFECT:0 "§Y[From.GetName]§! da, £society  §H$tech_climate_restoration$§! teknolojisi araştırıldıktan sonra Dünyalaştırma işlemi gerçekleşebilir."
  
- FALLEN_EMPIRE_LETHARGY_1:0 "§EUnable to construct new ships.§!"
- FALLEN_EMPIRE_LETHARGY_2:0 "§EUnable to conquer or colonize planets.§!"
+ FALLEN_EMPIRE_LETHARGY_1:0 "§EYeni gemi inşaatı yapılamıyor.§!"
+ FALLEN_EMPIRE_LETHARGY_2:0 "§EGezegenleri fethetmek veya kolonize etmek mümkün değil.§!"
 
- lonely_hive_mind_pops_kill_them_selves_citizenship:0 "These mindless drones can not be integrated into society."
- lonely_hive_mind_pops_kill_them_selves_purge_type:0 "Severed from their collective consciousness, Pops of this species soon expire."
- HIVE_MIND_MAIN_SPECIES_ALWAYS_CITIZEN:1 "$TRIGGER_FAIL$§RWe are one. We will always have §YFull Citizenship§!§!."
- HIVE_MIND_SPECIES_CITIZENS_ONLY:1 "$TRIGGER_FAIL$§RWe cannot sustain independent agents.§!"
- FANATIC_PURIFIERS_MUST_PURIFY:0 "§HFanatic Purifiers§! cannot tolerate the existence of xenos."
- HIVE_MIND_PURGE_ALWAYS_PROCESSING:0 "Looks tasty!"
+ lonely_hive_mind_pops_kill_them_selves_citizenship:0 "Bu akılsız dronlar toplum içerisine entegre edilemez."
+ lonely_hive_mind_pops_kill_them_selves_purge_type:0 "Kolektif bilinçlerinden koparılmış olan bu türdeki Poplar kısa süre içinde yok olacaktır."
+ HIVE_MIND_MAIN_SPECIES_ALWAYS_CITIZEN:1 "$TRIGGER_FAIL$§RBiz biriz. Her zaman §YTam Vatandaşlık§!§! sahibi olacağız."
+ HIVE_MIND_SPECIES_CITIZENS_ONLY:1 "$TRIGGER_FAIL$§RBağımsız aracıları ayakta tutamayız.§!"
+ FANATIC_PURIFIERS_MUST_PURIFY:0 "§HFanatik Arındırıcılar§! Xeno varlığına tahammül edemez."
+ HIVE_MIND_PURGE_ALWAYS_PROCESSING:0 "Lezzetli görünüyor!"
  
- EMBRACE_FACTION_COOLDOWN:1 "We recently §YEmbraced§! a Faction. This can only be done once every §Y10§! years."
+ EMBRACE_FACTION_COOLDOWN:1 "Yakın zamanda bir Fraksiyonu §YBenimsedik§!.  Bu sadece §Y10§! yılda bir yapılabilir."
  
- embraced_another_faction:0 "Embraced Other Faction"
- embraced_faction:0 "Faction Embraced"
- embraced_faction_timer:0 "Recently Embraced Faction"
- embraced_faction_timer_desc:0 "We recently changed our Governing Ethics by embracing a Faction and will not be able to do so again for some time."
- suppressed_faction:0 "Faction Suppressed"
- promoted_faction:0 "Faction Promoted"
- suppressed_xenophobe:0 "Xenophobia Suppressed"
+ embraced_another_faction:0 "Diğer Fraksiyon Benimsendi"
+ embraced_faction:0 "Fraksiyon Benimsendi"
+ embraced_faction_timer:0 "Yakın Zamanda Fraksiyon Benimsendi"
+ embraced_faction_timer_desc:0 "Geçtiğimiz günlerde Yönetim Etiklerimizi bir Fraksiyonu benimseyerek değiştirdik ve bir süre daha aynı işlemi yapamayacağız."
+ suppressed_faction:0 "Fraksiyon Bastırılmış"
+ promoted_faction:0 "Fraksiyon Desteklenmiş"
+ suppressed_xenophobe:0 "Xenofobi Bastırılmış"
  suppressed_xenophobe_desc:0 "The §HXenophobe§! Ethic is being suppressed by the government."
  promoted_xenophobe:0 "Xenophobia Promoted"
  promoted_xenophobe_desc:0 "The §HXenophobe§! Ethic is being promoted by the government."
