@@ -3,7 +3,7 @@
  # Misc
  ####################################
  SEPARATOR:0 "---"
- 
+
  PLAYER_EMPIRE:0 "§Y$NAME$ (Oyuncu)§!"
 
  STATION:0 "İstasyon"
@@ -12,12 +12,12 @@
  ICON_COLOR_VALUE:0 "£$ICON$ $VALUE|0$"
  ICON_VALUE_POSITIVE:0 "£$ICON$ $VALUE|0+=$"
  ICON_VALUE_NEGATIVE:0 "£$ICON$ $VALUE|0-$"
- 
+
  TRAIT_CHARISMATIC_EFFECT:0 "Liderin Görüşüne Etkisi: §G+25§!"
  TRAIT_REPUGNANT_EFFECT:0 "Liderin Görüşüne Etkisi: §R-25§!"
- 
+
  CANNOT_ENLIGHTEN_FANATIC_XENOPHOBE:0 "§H$ethic_fanatic_xenophobe$§! olan İlkelleri teknolojik olarak aydınlatmak mümkün değildir."
- 
+
  FOOD_SURPLUS_STARVATION:0 "§Rİmparatorluğumuz açlıktan ölüyor, tüm Pop büyümesi durduruldu.§!"
  FOOD_SURPLUS_NONE:0 "§YŞu anda Yiyecekleri stoklamaktayız. Stokumuz dolana kadar, Pop büyümesi bonusu alamayız.§!"
  FOOD_SURPLUS:0 "§GAylık Gıda fazlası tüm Pop büyümesinin hızını §Y$AMT$%§! oranında artırıyor.§!"
@@ -26,9 +26,9 @@
  SPECIES_LACKS_OPTION:0 "§RSeçtiğiniz Türlerin Görünümü bu kategoride herhangi bir ikincil seçenek sunmuyor.§!"
 
  ALL:0 "Tümü"
- 
+
  TERRAFORMING_CANDIDATE_EFFECT:0 "§Y[From.GetName]§! da, £society  §H$tech_climate_restoration$§! teknolojisi araştırıldıktan sonra Dünyalaştırma işlemi gerçekleşebilir."
- 
+
  FALLEN_EMPIRE_LETHARGY_1:0 "§EYeni gemi inşaatı yapılamıyor.§!"
  FALLEN_EMPIRE_LETHARGY_2:0 "§EGezegenleri fethetmek veya kolonize etmek mümkün değil.§!"
 
@@ -36,68 +36,68 @@
  lonely_hive_mind_pops_kill_them_selves_purge_type:0 "Kolektif bilinçlerinden koparılmış olan bu türdeki Poplar kısa süre içinde yok olacaktır."
  HIVE_MIND_MAIN_SPECIES_ALWAYS_CITIZEN:1 "$TRIGGER_FAIL$§RBiz biriz. Her zaman §YTam Vatandaşlık§!§! sahibi olacağız."
  HIVE_MIND_SPECIES_CITIZENS_ONLY:1 "$TRIGGER_FAIL$§RBağımsız aracıları ayakta tutamayız.§!"
- FANATIC_PURIFIERS_MUST_PURIFY:0 "§HFanatik Arındırıcılar§! Xeno varlığına tahammül edemez."
+ FANATIC_PURIFIERS_MUST_PURIFY:0 "§HFanatik Arındırıcılar§! Zeno varlığına tahammül edemez."
  HIVE_MIND_PURGE_ALWAYS_PROCESSING:0 "Lezzetli görünüyor!"
- 
+
  EMBRACE_FACTION_COOLDOWN:1 "Yakın zamanda bir Fraksiyonu §YBenimsedik§!.  Bu sadece §Y10§! yılda bir yapılabilir."
- 
+
  embraced_another_faction:0 "Diğer Fraksiyon Benimsendi"
  embraced_faction:0 "Fraksiyon Benimsendi"
  embraced_faction_timer:0 "Yakın Zamanda Fraksiyon Benimsendi"
  embraced_faction_timer_desc:0 "Geçtiğimiz günlerde Yönetim Etiklerimizi bir Fraksiyonu benimseyerek değiştirdik ve bir süre daha aynı işlemi yapamayacağız."
  suppressed_faction:0 "Fraksiyon Bastırılmış"
  promoted_faction:0 "Fraksiyon Desteklenmiş"
- suppressed_xenophobe:0 "Xenofobi Bastırılmış"
- suppressed_xenophobe_desc:0 "The §HXenophobe§! Ethic is being suppressed by the government."
- promoted_xenophobe:0 "Xenophobia Promoted"
- promoted_xenophobe_desc:0 "The §HXenophobe§! Ethic is being promoted by the government."
- suppressed_xenophile:0 "Xenophilia Suppressed"
- suppressed_xenophile_desc:0 "The §HXenophile§! Ethic is being suppressed by the government."
- promoted_xenophile:0 "Xenophilia Promoted"
- promoted_xenophile_desc:0 "The §HXenophile§! Ethic is being promoted by the government."
- suppressed_spiritualist:0 "Spiritualism Suppressed"
- suppressed_spiritualist_desc:0 "The §HSpiritualist§! Ethic is being suppressed by the government."
- promoted_spiritualist:0 "Spiritualism Promoted"
- promoted_spiritualist_desc:0 "The §HSpiritualist§! Ethic is being promoted by the government."
- suppressed_materialist:0 "Materialism Suppressed"
- suppressed_materialist_desc:0 "The §HMaterialist§! Ethic is being suppressed by the government."
- promoted_materialist:0 "Materialism Promoted"
- promoted_materialist_desc:0 "The §HMaterialist§! Ethic is being promoted by the government."
- suppressed_authoritarian:0 "Authoritarianism Suppressed"
- suppressed_authoritarian_desc:0 "The §HAuthoritarian§! Ethic is being suppressed by the government."
- promoted_authoritarian:0 "Authoritarianism Promoted"
- promoted_authoritarian_desc:0 "The §HAuthoritarian§! Ethic is being promoted by the government."
- suppressed_egalitarian:0 "Egalitarianism Suppressed"
- suppressed_egalitarian_desc:0 "The §HEgalitarian§! Ethic is being suppressed by the government."
- promoted_egalitarian:0 "Egalitarianism Promoted"
- promoted_egalitarian_desc:0 "The §HEgalitarian§! Ethic is being promoted by the government."
- suppressed_militarist:0 "Militarism Suppressed"
- suppressed_militarist_desc:0 "The §HMilitarist§! Ethic is being suppressed by the government."
- promoted_militarist:0 "Militarism Promoted"
- promoted_militarist_desc:0 "The §HMilitarist§! Ethic is being promoted by the government."
- suppressed_pacifist:0 "Pacifism Suppressed"
- suppressed_pacifist_desc:0 "The §HPacifist§! Ethic is being suppressed by the government."
- promoted_pacifist:0 "Pacifism Promoted"
- promoted_pacifist_desc:0 "The §HPacifist§! Ethic is being promoted by the government."
- EMBRACE_FACTION:0 "Embrace Faction"
- EMBRACE_FACTION_DESC:0 "Embrace the policies and values of the §Y[Root.GetName]§!, bringing them into our government. This will §Gpermanently change our Governing Ethics§! and §Rdisplease all other Factions in our empire§!."
- PROMOTE_FACTION:0 "Promote Faction"
- PROMOTE_FACTION_DESC:1 "Promote the policies and values of the §Y[Root.GetName]§!. This will please them and any like-minded factions, and make their ethics more attractive to our population for as long as it is active."
- SUPPRESS_FACTION:0 "Suppress Faction"
- SUPPRESS_FACTION_DESC:1 "Suppress the policies and values of the §Y[Root.GetName]§!. This will displease them and any like-minded factions, and make their ethics less attractive to our population for as long as it is active."
- CANCEL_PROMOTE_FACTION:0 "Stop Promoting Faction"
- CANCEL_PROMOTE_FACTION_DESC:1 "Stop promoting the policies and values of §Y[Root.GetName]§! and like-minded factions."
- CANCEL_SUPPRESS_FACTION:0 "Stop Suppressing Faction"
- CANCEL_SUPPRESS_FACTION_DESC:1 "Stop suppressing the policies and values of the §Y[Root.GetName]§! and like-minded factions."
- TRAIT_REQUIRES_NO_ETHIC:0 "$TRAIT|H$ cannot be combined with any Governing Ethics."
- TRAIT_REQUIRES_ETHIC:0 "$TRAIT|H$ requires one of the following Governing Ethics:"
- RECENTLY_CHANGED_SPECIES_RIGHT:0 "§RWe recently changed this species policy. We will be able to change it again on $DATE|Y$.§!"
- RECENTLY_CHANGED_SPECIES_RIGHTS_CANT_RESET:0 "§RWe recently changed species policies. We will be able to reset all rights again on $DATE|Y$.§!"
- PLANNED_SECTOR_PROJECT_HEADER:0 "§ESector Projects§!"
- PLANNED_SECTOR_PROJECT:0 "- Planning to construct $PROJECT|Y$ $WHERE$ $TARGET|H$ ($AMOUNT|Y$/$NEEDED|Y$£minerals  allocated)."
- PLANNED_SECTOR_BLOCKER_PROJECT:0 "- Planning a clear a Tile Blocker on $TARGET$ ($AMOUNT|Y$/$NEEDED|Y$£minerals  allocated)."
- SPACEPORT_MODULE:0 "Spaceport Module"
- TOTAL_SECTOR_BUILDING_PROJECTS:1 "- Currently constructing $NUM|Y$ Building(s)."
+ suppressed_xenophobe:0 "Zenofobi Bastırılmış"
+ suppressed_xenophobe_desc:0 "§HZenofobi§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_xenophobe:0 "Zenofobi Desteklenmiş"
+ promoted_xenophobe_desc:0 "§HZenofobi§! Etiği hükümet tarafından teşvik ediliyor."
+ suppressed_xenophile:0 "Zenofili Bastırılmış"
+ suppressed_xenophile_desc:0 "§HZenofili§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_xenophile:0 "Zenofili Desteklenmiş"
+ promoted_xenophile_desc:0 "§HZenofili§! Etiği hükümet tarafından teşvik ediliyor."
+ suppressed_spiritualist:0 "Tinselcilik Bastırılmış"
+ suppressed_spiritualist_desc:0 "§HTinselci§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_spiritualist:0 "Tinselcilik Desteklenmiş"
+ promoted_spiritualist_desc:0 "§HTinselci§! Etiği hükümet tarafından teşvik ediliyor."
+ suppressed_materialist:0 "Maddecilik Bastırılmış"
+ suppressed_materialist_desc:0 "§HMaddeci§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_materialist:0 "Maddecilik Desteklenmiş"
+ promoted_materialist_desc:0 "§HMaddeci§! Etiği hükümet tarafından teşvik ediliyor."
+ suppressed_authoritarian:0 "Otoritercilik Bastırılmış"
+ suppressed_authoritarian_desc:0 "§HOtoriterci§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_authoritarian:0 "Otoritercilik Desteklenmiş"
+ promoted_authoritarian_desc:0 "§HOtoriterci§! Etiği hükümet tarafından teşvik ediliyor."
+ suppressed_egalitarian:0 "Eşitlikçilik Bastırılmış"
+ suppressed_egalitarian_desc:0 "§HEşitlikçi§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_egalitarian:0 "Eşitlikçilik Desteklenmiş"
+ promoted_egalitarian_desc:0 "§HEşitlikçi§! Etiği hükümet tarafından teşvik ediliyor."
+ suppressed_militarist:0 "Militarizm Bastırılmış"
+ suppressed_militarist_desc:0 "§HMilitarist§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_militarist:0 "Militarizm Desteklenmiş"
+ promoted_militarist_desc:0 "§HMilitarist§! Etiği hükümet tarafından teşvik ediliyor."
+ suppressed_pacifist:0 "Barışçılık Bastırılmış"
+ suppressed_pacifist_desc:0 "§HBarışçı§! Etiği hükümet tarafından bastırılmaktadır."
+ promoted_pacifist:0 "Barışçılık Desteklenmiş"
+ promoted_pacifist_desc:0 "§HBarışçı§! Etiği hükümet tarafından teşvik ediliyor."
+ EMBRACE_FACTION:0 "Fraksiyonu Benimse"
+ EMBRACE_FACTION_DESC:0 "§Y[Root.GetName]§! politikalarını ve değerlerini benimseyip onları hükümetimize getiriyoruz. Bu durum §GYönetim Etiklerimizi kalıcı olarak değiştirecek§! ve §Rimparatorluğumuzdaki tüm diğer Faksiyonların hoşuna gitmeyecek§!."
+ PROMOTE_FACTION:0 "Fraksiyonu Destekle"
+ PROMOTE_FACTION_DESC:1 "§Y[Root.GetName]§! politikalarını ve değerlerini teşvik edin. Bu onları ve benzer düşünen fraksiyonları memnun edecek, aktif olduğu sürece onların etikleri halkımız için daha cazip gelecektir."
+ SUPPRESS_FACTION:0 "Fraksiyonu Engelle"
+ SUPPRESS_FACTION_DESC:1 "§Y[Root.GetName]§! politikalarını ve değerlerini bastırın. Bu onları ve benzer fikirli grupları hoşnut etmeyecek, aktif olduğu sürece onların etikleri halkımız için daha az cazip hale gelecektir."
+ CANCEL_PROMOTE_FACTION:0 "Fraksiyon Desteklemeyi Durdur"
+ CANCEL_PROMOTE_FACTION_DESC:1 "§Y[Root.GetName]§! ve benzer fikirli grupların politikalarını ve değerlerini yüceltmeyi bırakın."
+ CANCEL_SUPPRESS_FACTION:0 "Fraksiyon Bastırmayı Durdur"
+ CANCEL_SUPPRESS_FACTION_DESC:1 "§Y[Root.GetName]§! ve benzer fikirli grupların politikalarını ve değerlerini önlemeyi bırakın."
+ TRAIT_REQUIRES_NO_ETHIC:0 "$TRAIT|H$ herhangi bir Yönetim Etiği ile kombine edilemez."
+ TRAIT_REQUIRES_ETHIC:0 "$TRAIT|H$ aşağıdaki Yönetim Etiklerinden birini gerektirir:"
+ RECENTLY_CHANGED_SPECIES_RIGHT:0 "§RYakın zamanda tür politikasını değiştirdik. $DATE|Y$ de yeniden değiştirebileceğiz.§!"
+ RECENTLY_CHANGED_SPECIES_RIGHTS_CANT_RESET:0 "§RYakın zamanda tür politikasını değiştirdik. $DATE|Y$ de yapılan tüm değişiklikleri geri alabileceğiz.§!"
+ PLANNED_SECTOR_PROJECT_HEADER:0 "§ESektör Projeleri§!"
+ PLANNED_SECTOR_PROJECT:0 "- İnşa projesi planlanıyor: $PROJECT|Y$ $WHERE$ $TARGET|H$ ($AMOUNT|Y$/$NEEDED|Y$£mineraller  ayrıldı)."
+ PLANNED_SECTOR_BLOCKER_PROJECT:0 "- Karo Engelini temizleme projesi planlanıyor: $TARGET$ ($AMOUNT|Y$/$NEEDED|Y$£mineraller  ayrıldı)."
+ SPACEPORT_MODULE:0 "Uzayüssü Modülü"
+ TOTAL_SECTOR_BUILDING_PROJECTS:1 "- Şu anda $NUM|Y$ Bina inşa ediliyor."
  TOTAL_SECTOR_BLOCKER_PROJECTS:1 "- Currently clearing $NUM|Y$ Tile Blocker(s)."
  TOTAL_SECTOR_STATION_PROJECTS:1 "- Currently constructing $NUM|Y$ Station(s)."
  TOTAL_SECTOR_POP_PROJECTS:1 "- Currently constructing $NUM|Y$ Pop(s)."
@@ -122,9 +122,9 @@
 
  HABITABILTIY_TOO_LOW:0 "§RHabitability for colonizing species must be at least §Y$MIN|0$%§!.§!"
  RESETTLE_HABITABILTIY_TOO_LOW:0 "§RHabitability for resettled pop must be at least §Y$MIN|0$%§!.§!"
- 
+
  ROOM_BACKGROUND:0 "Room"
- 
+
  #MAP_MODE_TOOLTIP variables: "FROM" source country, "TARGET" tooltiped country, "MAP_MODE_NAME" name of current map mode, "MAP_MODE_TIP" tip generated from map mode
  MAP_MODE_TOOLTIP:0 "$TARGET|H$\n$MAP_MODE_TIP$"
  MAP_MODE_BUTTON_TOOLTIP:1 "$MAP_MODE|H$\n$DESC$\n§GClick to select this Map Mode§!"
@@ -163,7 +163,7 @@
  DIPLOMATIC_MAP_MODE_DEFENSIVE_PACT:0 "§H[This.GetName]§!\nHas Defensive Pact with §H[From.GetName]§!"
  DIPLOMATIC_MAP_MODE_MIGRATION_PACT:0 "§H[This.GetName]§!\nHas Migration Pact with §H[From.GetName]§!"
  MAP_MODE_NO_CONTACT:0 "§H[This.GetName]§!\nHas not yet established Communication with §H[From.GetName]§!"
- 
+
  MAP_MODE_NEIGHBOR:0 "§H[From.GetName]§! is considered a neighbor of §H[This.GetName]§!."
  MAP_MODE_NOT_NEIGHBOR:0 "§H[From.GetName]§! is NOT considered a neighbor of §H[This.GetName]§!."
 
@@ -3145,7 +3145,7 @@
  trait_ruler_space_miner_desc:1 "This leader recognizes just how vital the exploitation of offworld resources is for a star nation."
  trait_ruler_explorer:0 "Explorer"
  trait_ruler_explorer_desc:1 "This leader is known for their insatiable curiosity, valuing space exploration above all else."
- 
+
  # Event Special
  leader_trait_sentinel:0 "Sentinel Training"
  leader_trait_sentinel_desc:0 "Sentinel fleet commanders possess detailed knowledge of Prethoryn anatomy and tactics."
@@ -5851,7 +5851,7 @@
  requires_target_not_devouring_swarm:0 "§RWe are a §Y$civic_hive_devouring_swarm$§!! We do not engage in diplomacy with other species... we eat them!§!"
  requires_actor_not_hive_mind:0 "§RNot possible because we are a §HHive Mind§!.§!"
  requires_target_not_hive_mind:0 "§RNot possible because they are a §HHive Mind§!.§!"
- 
+
  ####################################
  # Basic Resources
  ####################################
@@ -5874,7 +5874,7 @@
  unity_desc:0 "§E§H$unity$§! (£unity ) is used to unlock new §HTraditions§!. We can increase our output by building\n £building  §HAutochthon Monuments§! or other §HUnity buildings§!.§!"
 
  ENERGY_DEFICIT_DESC:1 "§ROur Empire is affected by $DEFICIT|E$ since we are spending more §HEnergy Credits§! than we are producing, and our reserves have run out.§!"
- 
+
  ETHIC_ALLOWS_SLAVERY:0 "§ECan §HEnslave§! aliens§!"
  ETHIC_ALLOWS_CASTE_SYSTEM:0 "§EAllows §HCaste System§! species policy§!"
  ETHIC_ALLOWS_PURGE:0 "§ECan §HPurge§! and §HDisplace§! aliens§!"
@@ -6228,7 +6228,7 @@
  ####################################
  # Government Authorities
  ####################################
- 
+
  auth_democratic:0 "Democratic"
  auth_democratic_desc:0 "Democratic governments have regular elections where all citizens can vote on who should represent them."
  auth_oligarchic:0 "Oligarchic"
@@ -6500,7 +6500,7 @@
  HT_DEPUTY_OVERLORD_FEMALE:0 "$HT_DEPUTY_OVERLORD$"
  HT_SENIOR_TECHNICIAN:0 "Senior Technician"
  RT_GRAND_MASTER:0 "Grand Master"
- 
+
  RT_CELESTIAL_EMPEROR:0 "Celestial Emperor"
  RT_CELESTIAL_EMPRESS:0 "Celestial Empress"
  RT_WARLORD:0 "Warlord"
@@ -6651,13 +6651,13 @@
  civic_hive_pooled_knowledge_desc:0 "The Hive Mind's autonomous drones frequently share knowledge through direct links, bypassing the Hive Mind's slower registry processes."
  civic_hive_devouring_swarm:0 "Devouring Swarm"
  civic_hive_devouring_swarm_desc:0 "Our Hive Mind exist only to consume and grow stronger. We will collect all available bio-matter and evolve to consume the galaxy!"
- 
+
  civic_tooltip_agrarian_idyll_effects:0 "£building  §YFarms§! also produce §Y1§! £unity  Unity."
  civic_tooltip_mechanists_effects:2 "Start the game with §Y4§! £pop  Pops being robots, and with the technology to build more.\n§Y$MOD_COUNTRY_ROBOT_MAINTENANCE_MULT$§! reduced by §G-5%§!"
  civic_tooltip_syncretic_evolution_effects:1 "Start the game with §Y4§! £pop  Pops being of another, subservient, species."
  civic_tooltip_fanatic_purifiers_effects:3 "Cannot engage in §YDiplomacy§! with other species!\nCan only use §YCede Planet§! and §YCleanse Planet§! war demands.\n§YXeno Pops§! will always be purged and have no effect on Tradition Cost.\nGains £unity  §YUnity§! from purging Xeno £pop  Pops.\nMay use §Y$GROUND_SUPPORT_STANCE_ARMAGEDDON$§! bombardment stance.\n§Y$MOD_SHIP_FIRE_RATE_MULT$§! increased by §G+33%§!\n§Y$MOD_ARMY_DAMAGE_MULT$§! increased by §G+33%§!\n$MOD_TRADITION_COST_NUM_XENO_SLAVES_MULT$: §G-100%§"
  civic_tooltip_devouring_swarm_effects:0 "Cannot engage in §YDiplomacy§! with other species!\n§YXeno Pops§! will always be eaten and have no effect on Tradition Cost.\nGains £society  §Y$society_research$§! from eating Xeno £pop  Pops.\n§Y$MOD_SHIP_HITPOINTS_MULT$§! increased by §G+10%§!\n§Y$MOD_SHIP_AUTO_REPAIR_ADD$§! increased by §G+0.5%§!\n§Y$MOD_ARMY_DAMAGE_MULT$§! increased by §G+40%§!\n§Y$category_biology_research_speed_mult$§! increased by §G+20%§!\n$MOD_TRADITION_COST_NUM_XENO_SLAVES_MULT$: §G-100%§!"
- 
+
  civic_tooltip_spiritualist:0 "Is some degree of §YSpiritualist§!"
  civic_tooltip_materialist:0 "Is some degree of §YMaterialist§!"
  civic_tooltip_authoritarian:0 "Is some degree of §YAuthoritarian§!"
@@ -6753,7 +6753,7 @@
 
  PSIONIC_BLAST_1:0 "Psionic Blast"
  PSIONIC_BLAST_1_DESC:0 ""
- 
+
  EXTRADIMENSIONAL_1:0 "Matter Disintegrator"
  EXTRADIMENSIONAL_1_DESC:1 "Hailing from another dimension, the core technologies of the Matter Disintegrator bends several physical laws for destructive results."
 
@@ -7759,7 +7759,7 @@
  ALL_POPS_EMANCIPATED:0 "§EAll Pops in your empire will be emancipated§!"
  ALL_ROBOTS_DISASSEMBLED:0 "§EAll robotic Pops in your empire will be disassembled§!"
  CLICK_POLICY_VIEW:0 "§GClick to see list of possible Empire Edicts.§!"
- 
+
  policy_pre_sentients:0 "Pre-Sentients"
  policy_pre_sentients_desc:0 "We can decide whether or not we want pre-sentient species living on our planets."
  pre_sentients_allow:0 "Tolerate Pre-Sentients"
@@ -7779,7 +7779,7 @@
  core_worlds_citizens_only:0 "Citizens Only"
  core_worlds_citizens_only_name:0 "Citizens Only"
  core_worlds_citizens_only_desc:0 "Our core worlds are the heart of our empire. No lesser species shall be permitted to settle there.\n\n§EPops without Full Citizenship will migrate away from Core Worlds§!"
- 
+
  policy_refugees:0 "Refugees"
  policy_refugees_desc:0 "We can decide whether we should accept or turn away refugees fleeing purges, displacement and persecution in other empires."
  refugees_not_allowed:0 "No Refugees"
@@ -7985,7 +7985,7 @@
  food_stockpiling_3_name:0 "Large Stockpiles"
  food_stockpiling_3_desc:0 "We can never know when disaster and famine will strike. A large stockpile of food will let us to weather bad circumstances without our population suffering."
 
- 
+
  policy_war_economy:0 "War Economy"
  policy_war_economy_desc:0 "We can gear our industry and economy to seize assets from the civilian sector in times of desperate defensive wars. The downside with these policies is that we will suffer corresponding penalties while we are winning offensive wars...\n"
  static_we:0 "Static"
@@ -8966,7 +8966,7 @@
  INTEGRATE_SUBJECT_MIN_TIME:0 "Has to have been a subject for $DAYS|Y$ days ($DATE$)"
  SUBJECT_INTEGRATION_COMPLETE_TITLE:0 "Subject Integration Complete"
  SUBJECT_INTEGRATION_COMPLETE_DESC:0 "Subject $SUBJECT|Y$ has been successfully integrated into our Empire"
- 
+
 # Subjects
  SUBJECT_vassal:0 "Vassal"
  SUBJECT_DESC_vassal:0 "Vassals are subservient to their Overlord. They have limited diplomatic options, and fight along their Overlord."
@@ -9142,5 +9142,5 @@
  EXPANSION_PLANNER_ALREADY_HAD_EXPANSION_ENTRY:0 "§RPlanet already has a Planned Colony.§!"
  EXPANSION_PLANNER_TARGET_UNREACHABLE:0 "§RThe colony ship has no valid route to this planet.§!"
  EXPANSION_PLANNER_TARGET_UNREACHABLE_CURRENTLY:0 "§RWe currently have no valid route to this planet.§!"
- 
+
  SHIPS_NOT_UPGRADABLE:0 "§REvent ships are not upgradable§!"
