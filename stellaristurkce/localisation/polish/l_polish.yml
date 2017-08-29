@@ -120,7 +120,7 @@
  CRISIS_FIGHTING_ALLIANCE:0 "Galaktik Savunma Birliği"
  point_defence:0 "Nokta Savunması"
 
- HABITABILTIY_TOO_LOW:0 "§RKolonize işlemini gerçekleştirebilmek için türün Yaşanabilirlik seviyesi en az §Y$MIN|0$%§! olmalıdır.§!"
+ HABITABILTIY_TOO_LOW:0 "§RTürün Kolonize işlemini gerçekleştirebilmek için Yaşanabilirlik seviyesi en az §Y$MIN|0$%§! olmalıdır.§!"
  RESETTLE_HABITABILTIY_TOO_LOW:0 "§RYeniden yerleştirilmiş Pop için Yaşanabilirlik seviyesi en az §Y$MIN|0$%§! olmalıdır.§!"
 
  ROOM_BACKGROUND:0 "Oda"
