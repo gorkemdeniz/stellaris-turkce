@@ -4,7 +4,7 @@
  # Special Projects
  ####################################
 
- hallucinogen_removal:0 "Halüsönönojenin Kaldırılması"
+ hallucinogen_removal:0 "Halüsönojenin Kaldırılması"
  hallucinogen_removal_DESC:1 "Halüsinojeni [Root.GetName] atmosferinden çıkarmaya çalışın."
  impact_defence_system:0 "Asteroit Savunma Sistemi"
  impact_defence_system_DESC:0 "[Root.GetName] üzerindeki koloniyi, gezegeni perişan eden ve sıkça tekrarlanan asteroit etkilerinden nasıl en iyi şekilde koruyacağımızı araştırmak zorundayız."

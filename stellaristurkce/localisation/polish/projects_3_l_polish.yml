@@ -1,16 +1,16 @@
-﻿l_english:
+﻿l_polish:
 
  ####################################
  # Special Projects
  ####################################
 
  ### Anomaly Events
- DERELICT_SHIP_PROJECT:0 "Derelict Ship"
- DERELICT_SHIP_PROJECT_DESC:0 "A ship adrift in space, no signals going in or coming out. Inspecting it more closely might shed some light on what has happened to the crew."
- ODD_STAR_PROJECT:0 "Fire of the Furnace"
- ODD_STAR_PROJECT_DESC:0 "The star is appearing to be able to fuse beryllium, which shouldn't be possible."
- IMPROBABLE_TEAPOT_PROJECT:0 "Improbable Ceramics"
- IMPROBABLE_TEAPOT_PROJECT_DESC:0 "A ceramic pot is orbiting a sun... this is beyond improbable. Figuring out what it does there will take quite some time. Who knows what the answer will be, or if there even is one?"
+ DERELICT_SHIP_PROJECT:0 "Sahipsiz Gemi"
+ DERELICT_SHIP_PROJECT_DESC:0 "Uzaya fırlatılmış bir gemi, sinyal ulaşmıyor ve ya sinyal vermiyor. Daha yakından incelemek mürettebata ne olduğu hususunda bizi aydınlatabilir."
+ ODD_STAR_PROJECT:0 "Fırının Ateşi"
+ ODD_STAR_PROJECT_DESC:0 "Yıldız berilyum ateşleyebiliyor gibi görünüyor. Fakat böyle birşey nasıl mümkün olabilir?"
+ IMPROBABLE_TEAPOT_PROJECT:0 "Beklenmedik Seramikler"
+ IMPROBABLE_TEAPOT_PROJECT_DESC:0 "Bir seramik kap güneşin etrafında dönüyor... bu imkansız ötesi bir durum. Buraya nasıl ulaştığını anlamak epey zaman alabilir. Cevabın ne olacağını kim bilir, yada gerçekten ortada bir cevap var mı?"
  AI_ADMIRAL_PROJECT:0 "Warrior from Sand"
  AI_ADMIRAL_PROJECT_DESC:0 "An ancient fleet has been found crashed on a desert planet, with a still-active shipboard AI. If we do not move to subdue it, things might take a turn for the worse."
  MINING_GEAR_PROJECT:0 "Drill Rampage"
