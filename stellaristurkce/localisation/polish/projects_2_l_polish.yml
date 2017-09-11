@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_polish:
 
  ####################################
  # Special Projects
@@ -6,41 +6,41 @@
 
  ### Story Events
 
- AMOEBAS_1_PROJECT:0 "Space Amoeba Observation"
- AMOEBAS_1_PROJECT_DESC:0 "Task a science department with collecting and collating data relating to the Space Amoebas."
+ AMOEBAS_1_PROJECT:0 "Uzay Amipleri Gözlemi"
+ AMOEBAS_1_PROJECT_DESC:0 "Uzay Amipleri ile ilgili verileri toplama ve inceleme üzerine bir bilim departmanına görev verin."
 
- CRYSTALS_1_PROJECT:0 "Crystalline Entity Observation"
- CRYSTALS_1_PROJECT_DESC:0 "Task a science department with collecting and collating data relating to the Crystalline Entities."
+ CRYSTALS_1_PROJECT:0 "Kristalize Varlık Gözlemi"
+ CRYSTALS_1_PROJECT_DESC:0 "Kristalize Varlıklar ile ilgili verileri toplama ve inceleme üzerine bir bilim departmanına görev verin."
 
- DRONES_1_PROJECT:0 "Mining Drone Observation"
- DRONES_1_PROJECT_DESC:0 "Task a science department with collecting and collating data relating to the Ancient Mining Drones."
+ DRONES_1_PROJECT:0 "Madencilik Dronu Gözlemi"
+ DRONES_1_PROJECT_DESC:0 "Antik Madencilik Dronları ile ilgili verileri toplama ve inceleme üzerine bir bilim departmanına görev verin."
 
- CLOUDS_1_PROJECT:0 "Void Cloud Observation"
- CLOUDS_1_PROJECT_DESC:0 "Task a science department with collecting and collating data relating to the Void Clouds."
+ CLOUDS_1_PROJECT:0 "Void Bulutu Gözlemi"
+ CLOUDS_1_PROJECT_DESC:0 "Void Bulutları ile ilgili verileri toplama ve inceleme üzerine bir bilim departmanına görev verin."
 
- CRYSTAL_CONSTRUCT_PROJECT:0 "The Crystal Construct"
- CRYSTAL_CONSTRUCT_PROJECT_DESC:0 "Task a science department with collecting and collating data relating to the unique Crystalline Construct."
+ CRYSTAL_CONSTRUCT_PROJECT:0 "Kristal Yapı"
+ CRYSTAL_CONSTRUCT_PROJECT_DESC:0 "Eşsiz Kristalize Yapı ile ilgili verileri toplama ve inceleme üzerine bir bilim departmanına görev verin."
 
- MINING_BASE_PROJECT:0 "The Processing Hub"
- MINING_BASE_PROJECT_DESC:0 "Task a science department with remotely studying the last known Ancient Mining Drone Processing Hub."
+ MINING_BASE_PROJECT:0 "İşleme Merkezi"
+ MINING_BASE_PROJECT_DESC:0 "Antik Madencilik Dronu İşleme Merkezi ile ilgili verileri toplamak için uzaktan izleme amacıyla bir bilim departmanına görev verin."
 
  ### Anomaly Events
 
- DEAL_WITH_FLORA:0 "Plant Aggression"
- DEAL_WITH_FLORA_DESC:0 "The planet's flora is remarkably dexterous, alarmingly aggressive, and definitely worthy of closer study."
+ DEAL_WITH_FLORA:0 "Saldırgan Bitkiler"
+ DEAL_WITH_FLORA_DESC:0 "Gezegenin bitki örtüsü inanılmaz öfkeli, endişe verici derecede agresif ve kesinlikle yakından incelenmeye değer."
 
- OLD_GODS_BENEFACTRESS_PROJECT:0 "Old Gods: The Benefactress"
- OLD_GODS_BENEFACTRESS_PROJECT_DESC:1 "Every surface of the Benefactress' shrine is covered with a complex web of pictograms, seemingly telling a story far more expansive than the molecular fables that survived through the ages on [Root.Owner.Capital.GetName].\n\nThough only distantly related to known ancient [Root.Owner.GetSpeciesName] languages, current technology should allow us to decipher the pictograms given enough time and resources."
- OLD_GODS_UNDAUNTED_PROJECT:0 "Old Gods: The Undaunted"
+ OLD_GODS_BENEFACTRESS_PROJECT:0 "Eski Tanrılar: Hayırsever"
+ OLD_GODS_BENEFACTRESS_PROJECT_DESC:1 "Hayırsever tapınağının her yüzeyi, [Root.Owner.Capital.GetName] çağlarından kalan moleküler verilere kıyasla çok daha kapsamlı bir hikaye anlatan karmaşık bir piktogram paterni ile kaplı.\n\nAnladığımız kadarıyla bilinen eski [Root.Owner.GetSpeciesName] dilleri ile uzaktan ilişkili, mevcut teknolojimiz ile yeterli zaman ve kaynak harcayarak piktogramların deşifre edilmesini sağlayabiliriz."
+ OLD_GODS_UNDAUNTED_PROJECT:0 "Eski Tanrılar: Korkusuz"
  OLD_GODS_UNDAUNTED_PROJECT_DESC:1 "The temple holding the Undaunted's shrine is, true to the myths surrounding him, filled with contraptions of indeterminate origin and purpose. A far cry from the simple puzzle-boxes and tests of strength that once filled his temples on [Root.Owner.Capital.GetName], here his holy texts will truly only be read by the worthy.\n\nThat said, our sophisticated analysis tools should make short work of these conundrums."
  OLD_GODS_PERCIPIENT_PROJECT:0 "Old Gods: The Percipient"
  OLD_GODS_PERCIPIENT_PROJECT_DESC:1 "The walls of the space housing the shrine to the Percipient are coated with thick layers of mineral-based lacquer, but the shrine itself is bare.\n\nThe tales of the Percipient are told only to those perceptive enough to understand their meaning - it is just a matter of figuring out what needs to be perceived."
 
- LIMBO_1_PROJECT:0 "In Limbo"
- LIMBO_1_PROJECT_DESC:0 "An alien vault filled with data storage devices practically begs for some archaeological data recovery."
+ LIMBO_1_PROJECT:0 "Belirsizlik"
+ LIMBO_1_PROJECT_DESC:0 "Veri depolama aygıtlarıyla dolu bir uzaylı kasası, adeta arkeolojik veri kurtarımı için bize yalvarıyor."
 
- PROJECTING_MOON_PROJECT:0 "Projecting"
- PROJECTING_MOON_PROJECT_DESC:0 "An unusual planet has an unusual moon; the usual scanning techniques do not give satisfactory results, and a more hands-on approach is needed."
+ PROJECTING_MOON_PROJECT:0 "Planlama"
+ PROJECTING_MOON_PROJECT_DESC:0 "Alışılmadık bir gezegen alışılmadık bir aya sahip; olağan tarama teknikleri tatmin edici sonuçlar vermiyor ve daha farklı bir yaklaşım gerekebilir."
 
  GRIMACING_PLANET_PROJECT:0 "Grimacing Planet"
  GRIMACING_PLANET_PROJECT_DESC:0 "The violently animated face of this planet can be stabilized into something potentially habitable, if we act soon."
