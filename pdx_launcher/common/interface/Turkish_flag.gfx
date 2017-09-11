@@ -1,0 +1,9 @@
+spriteTypes = {	
+
+    ### Turkish Flag
+
+	spriteType = {
+		name = "GFX_lang_flag_l_turkish"
+		texturefile = "pdx_launcher/common/gfx/interface/Turkish_flag.dds"
+	}
+}
