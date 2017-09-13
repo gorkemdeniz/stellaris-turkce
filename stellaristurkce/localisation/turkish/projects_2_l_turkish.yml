@@ -42,52 +42,52 @@
  PROJECTING_MOON_PROJECT:0 "Planlama"
  PROJECTING_MOON_PROJECT_DESC:0 "Alışılmadık bir gezegen alışılmadık bir aya sahip; olağan tarama teknikleri tatmin edici sonuçlar vermiyor ve daha farklı bir yaklaşım gerekebilir."
 
- GRIMACING_PLANET_PROJECT:0 "Grimacing Planet"
- GRIMACING_PLANET_PROJECT_DESC:0 "The violently animated face of this planet can be stabilized into something potentially habitable, if we act soon."
+ GRIMACING_PLANET_PROJECT:0 "Dalgalanan Gezegen"
+ GRIMACING_PLANET_PROJECT_DESC:0 "Bu gezegenin şiddetle hareket eden yüzeyi, yakın bir zamanda harekete geçersek eğer potansiyel olarak yaşanabilir bir duruma gelebilir."
 
- OLFACTORY_PROJECT:0 "Olfactory Study"
- OLFACTORY_PROJECT_DESC:0 "An alien artifact is suspected of relaying information through aerosolized aromatic compounds."
+ OLFACTORY_PROJECT:0 "Koku İnceleme Çalışması"
+ OLFACTORY_PROJECT_DESC:0 "Uzaylı bir artifaktın aerosol haline getirilmiş bir aromatik bileşik halinde önemli bir takım bilgi taşıdığı düşünülmektedir."
 
- ULTIMATE_WEAPON_PROJECT:0 "The Ultimate Weapon"
- ULTIMATE_WEAPON_PROJECT_DESC:0 "A cache of weapons lie hidden somewhere on the planet. If we can find them, they may provide new martial technologies for our Empire."
+ ULTIMATE_WEAPON_PROJECT:0 "Üstün Bir Silah"
+ ULTIMATE_WEAPON_PROJECT_DESC:0 "Büyük bir silah deposu bu gezegende bir yerde gizli duruyor. Onları bulabilirsek, İmparatorluğumuz için yeni savaş teknolojileri sağlayabilirler."
 
- REFINE_ROCK_PROJECT:0 "Positron Bombardment"
- REFINE_ROCK_PROJECT_DESC:0 "Controlled dispersal of positrons from orbit may change the minerals native to the planet into a more useful form."
+ REFINE_ROCK_PROJECT:0 "Pozitron Bombardımanı"
+ REFINE_ROCK_PROJECT_DESC:0 "Pozitronların yörüngeden kontrollü olarak dağıtılması, gezegene özgü mineralleri daha kullanışlı bir biçime dönüştürebilir."
 
- CRYSTAL_CODEX_PROJECT:0 "Crystal Codex"
- CRYSTAL_CODEX_PROJECT_DESC:0 "A mineral formation houses hologram-encoded information. Its structure is familiar, but the sheer data density makes it a challenge to decode."
+ CRYSTAL_CODEX_PROJECT:0 "Kristal Kodeks"
+ CRYSTAL_CODEX_PROJECT_DESC:0 "Bir mineral oluşumu hologramla kodlanmış bilgileri barındırıyor. Yapısı tanıdık, ancak açık veri yoğunluğu şifrelemeyi çözmek için bir zorluk teşkil ediyor."
 
- ALIEN_BARRACKS_PROJECT:0 "Alien Barracks"
- ALIEN_BARRACKS_PROJECT_DESC:0 "A closer xeno-socio-archaeological study of these ruins may provide insights into some past alien war machine."
+ ALIEN_BARRACKS_PROJECT:0 "Uzaylı Kışlaları"
+ ALIEN_BARRACKS_PROJECT_DESC:0 "Bu kalıntılar hakkında bir zeno-sosyo-arkeolojik çalışma yapılması, geçmişteki bazı yabancı savaş makinelerine dair önemli bir takım bilgiler sağlayabilir."
 
- ROBOT_MINERALS_PROJECT:0 "Reclaimed by Nature"
- ROBOT_MINERALS_PROJECT_DESC:0 "An overgrown facility may house important secrets."
+ ROBOT_MINERALS_PROJECT:0 "Doğa Tarafından Ele Geçirilmiş"
+ ROBOT_MINERALS_PROJECT_DESC:0 "Görkemli bir tesis önemli sırları barındırabilir."
 
- BALANCE_ECOSYSTEM_PROJECT:0 "Balance Ecosystem"
- BALANCE_ECOSYSTEM_PROJECT_DESC:0 "A plan has been formulated to attempt to balance the planet's lopsided biosphere using only the tools available to a standard Science Ship.\n\nThere may be unforeseen consequences."
+ BALANCE_ECOSYSTEM_PROJECT:0 "Ekosistemi Dengeleme"
+ BALANCE_ECOSYSTEM_PROJECT_DESC:0 "Gezegenin tek yanlı biyosferini yalnızca standart bir Bilim Gemisinin mevcut araçları ile dengelemeye çalışacak bir plan oluşturuldu.\n\nÖngörülemeyen sonuçlar doğabilir."
 
- HEAD_IN_SAND_PROJECT:0 "Head in the Sand"
- HEAD_IN_SAND_PROJECT_DESC:0 "A military fleet can attempt to salvage an ever-burrowing ship."
+ HEAD_IN_SAND_PROJECT:0 "Kafayı Kuma Gömmek"
+ HEAD_IN_SAND_PROJECT_DESC:0 "Askeri bir filo, kumlara gömülmüş gemiyi kurtarmayı deneyebilir."
 
- THE_PRINCE_PROJECT:0 "The Prince"
- THE_PRINCE_PROJECT_DESC:0 "A databank found floating in space houses nothing but a lengthy piece of text, written in a strange, yet familiar, alien language."
+ THE_PRINCE_PROJECT:0 "Prens"
+ THE_PRINCE_PROJECT_DESC:0 "Uzayda yüzen bir veri bankası, tuhaf fakat tanıdık yabancı bir dilde yazılmış uzun bir metin parçasına ev sahipliği yapıyor."
 
- EMERGENCY_BUOY_PROJECT:0 "Emergency Buoy"
- EMERGENCY_BUOY_PROJECT_DESC:0 "A heavily-damaged object seems to act as a repeater for a comms signal."
+ EMERGENCY_BUOY_PROJECT:0 "Acil Durum Düzeneği"
+ EMERGENCY_BUOY_PROJECT_DESC:0 "Ağır biçimde hasar gören cisim bir iletişim sinyali için tekrarlayıcı görevi görüyor gibi görünüyor."
 
- WRECKED_FLEET_1:0 "Monumental Transmission"
- WRECKED_FLEET_1_DESC:0 "Decode the message emanating from the monolith."
+ WRECKED_FLEET_1:0 "Anıtsal İletim"
+ WRECKED_FLEET_1_DESC:0 "Monolitten gelen mesajın kodunu çöz."
 
- WRECKED_FLEET_2:0 "Ancient Alliance Armada"
- WRECKED_FLEET_2_DESC:0 "Deploy engineering teams to restore the salvageable vessels to working order."
+ WRECKED_FLEET_2:0 "Antik İttifak Donanması"
+ WRECKED_FLEET_2_DESC:0 "Kurtarılabilir gemileri çalışabilir duruma geri getirebilmek için mühendislik ekiplerini yerleştirin."
 
- MANUFACTORY_PROJECT:0 "Mining Restoration"
- MANUFACTORY_PROJECT_DESC:0 "Deploy engineering teams to restore an ancient orbital station to working order."
+ MANUFACTORY_PROJECT:0 "Maden Restorasyonu"
+ MANUFACTORY_PROJECT_DESC:0 "Antik yörünge istasyonunu çalışabilir duruma geri getirebilmek için mühendislik ekiplerini yerleştirin."
 
 ### Colony Events
 
- HELPFUL_DRONES_1_PROJECT:0 "Left Behind"
- HELPFUL_DRONES_1_PROJECT_DESC:0 "Strange readings are coming from the planet's moon. It could be nothing.\n\nBut it could be something. With a ship in orbit acting as a relay, the colony's scientists will carefully scan the moon's surface in order to get to the heart of the matter."
+ HELPFUL_DRONES_1_PROJECT:0 "Geride Bırakılmış"
+ HELPFUL_DRONES_1_PROJECT_DESC:0 "Garip veriler gezegenin ayından geliyor. Önemsiz gibi görünüyor.\n\nYine de önemli bir şey de olabilir. Yörüngedeki bir gemi röle görevi görürken, koloninin bilim insanları konuyu aydınlatmak için ayın yüzeyini dikkatle tarayacak."
  POLLEN_1_PROJECT:0 "Floral Study"
  POLLEN_1_PROJECT_DESC:0 "Some of the planet's native flora exhibit several potentially interesting properties."
  POLLEN_2_PROJECT:0 "Labor Study"
