@@ -29,11 +29,11 @@
  DEAL_WITH_FLORA:0 "Saldırgan Bitkiler"
  DEAL_WITH_FLORA_DESC:0 "Gezegenin bitki örtüsü inanılmaz öfkeli, endişe verici derecede agresif ve kesinlikle yakından incelenmeye değer."
 
- OLD_GODS_BENEFACTRESS_PROJECT:0 "Eski Tanrılar: Hayırsever"
- OLD_GODS_BENEFACTRESS_PROJECT_DESC:1 "Hayırsever tapınağının her yüzeyi, [Root.Owner.Capital.GetName] çağlarından kalan moleküler verilere kıyasla çok daha kapsamlı bir hikaye anlatan karmaşık bir piktogram paterni ile kaplı.\n\nAnladığımız kadarıyla bilinen eski [Root.Owner.GetSpeciesName] dilleri ile uzaktan ilişkili, mevcut teknolojimiz ile yeterli zaman ve kaynak harcayarak piktogramların deşifre edilmesini sağlayabiliriz."
+ OLD_GODS_BENEFACTRESS_PROJECT:0 "Eski Tanrılar: Merhametli"
+ OLD_GODS_BENEFACTRESS_PROJECT_DESC:1 "Merhametli tanrının tapınağının her yüzeyi, [Root.Owner.Capital.GetName] çağlarından kalan moleküler verilere kıyasla çok daha kapsamlı bir hikaye anlatan karmaşık bir piktogram paterni ile kaplı.\n\nAnladığımız kadarıyla bilinen eski [Root.Owner.GetSpeciesName] dilleri ile uzaktan ilişkili, mevcut teknolojimiz ile yeterli zaman ve kaynak harcayarak piktogramların deşifre edilmesini sağlayabiliriz."
  OLD_GODS_UNDAUNTED_PROJECT:0 "Eski Tanrılar: Korkusuz"
  OLD_GODS_UNDAUNTED_PROJECT_DESC:1 "The temple holding the Undaunted's shrine is, true to the myths surrounding him, filled with contraptions of indeterminate origin and purpose. A far cry from the simple puzzle-boxes and tests of strength that once filled his temples on [Root.Owner.Capital.GetName], here his holy texts will truly only be read by the worthy.\n\nThat said, our sophisticated analysis tools should make short work of these conundrums."
- OLD_GODS_PERCIPIENT_PROJECT:0 "Old Gods: The Percipient"
+ OLD_GODS_PERCIPIENT_PROJECT:0 "Eski Tanrılar: Hızlı"
  OLD_GODS_PERCIPIENT_PROJECT_DESC:1 "The walls of the space housing the shrine to the Percipient are coated with thick layers of mineral-based lacquer, but the shrine itself is bare.\n\nThe tales of the Percipient are told only to those perceptive enough to understand their meaning - it is just a matter of figuring out what needs to be perceived."
 
  LIMBO_1_PROJECT:0 "Belirsizlik"
@@ -88,27 +88,27 @@
 
  HELPFUL_DRONES_1_PROJECT:0 "Geride Bırakılmış"
  HELPFUL_DRONES_1_PROJECT_DESC:0 "Garip veriler gezegenin ayından geliyor. Önemsiz gibi görünüyor.\n\nYine de önemli bir şey de olabilir. Yörüngedeki bir gemi röle görevi görürken, koloninin bilim insanları konuyu aydınlatmak için ayın yüzeyini dikkatle tarayacak."
- POLLEN_1_PROJECT:0 "Floral Study"
- POLLEN_1_PROJECT_DESC:0 "Some of the planet's native flora exhibit several potentially interesting properties."
+ POLLEN_1_PROJECT:0 "Flora Çalışması"
+ POLLEN_1_PROJECT_DESC:0 "Gezegenin yerli florasının bir bölümü potansiyel olarak ilginç özellikler sergiliyor."
  POLLEN_2_PROJECT:0 "Labor Study"
  POLLEN_2_PROJECT_DESC:0 "Several recent studies from reputable [Root.Owner.GetSpeciesName] seats of learning present a number of alternative ways of arranging a vast workforce. An exhaustive meta-study of these new ideas could provide the answer to the problem of declining productivity in challenging colony environments."
- POLLEN_3_PROJECT:0 "A Sense of Impending Doom"
- POLLEN_3_PROJECT_DESC:0 "The situation on the pollen-infested planet has taken a turn for the potentially dangerous. A speedy assessment of the colony's unique situation and especially its increasingly volatile environmental factors is of the utmost importance.\n\nOnce all threats are known, an action plan can be drafted and executed within hours."
+ POLLEN_3_PROJECT:0 "Kadere Dair Küçük Bir Öngörü"
+ POLLEN_3_PROJECT_DESC:0 "Polenden muzdarip gezegendeki durum potansiyel olarak tehlikeli bir hal aldı. Koloninin benzersiz durumu ve gittikçe artan oranda uçucu olan çevresel faktörlerin hızlı bir şekilde değerlendirilmesi son derece önemlidir.\n\nTüm tehditler üzerine çalışma yapıldıktan sonra, birkaç saat içinde bir eylem planı hazırlanıp yürütülebilir."
 
 ### Starting Events
 
 # Wanderlust
- ROGUE_SCIENTIST_1_PROJECT:0 "Wanderlust: What Was Left Behind"
- ROGUE_SCIENTIST_1_PROJECT_DESC:0 "The Chairperson's unseen departure from this system resulted in a perplexing mass of residual energy signatures being cast upon the solar winds.\n\nHopefully a complete analysis of these energies should point us to the Chairperson's next destination, and if need be, make them easier to track in the future."
+ ROGUE_SCIENTIST_1_PROJECT:0 "Yolculuk Tutkusu: Geride Kalanlar"
+ ROGUE_SCIENTIST_1_PROJECT_DESC:0 "Başkan'ın bu sistemden aceleci bir şekilde ayrılması, geride güneş rüzgarlarına atılan enerji partikülleri bırakmıştır.\n\nUmarız bu enerji kalıntılarının eksiksiz bir analizi, Başkan'ın bir sonraki varış noktasına işaret edecek ve gerekirse, ileride onu daha kolay takip etmemizi veya bulmamızı sağlayacaktır."
 
 # Mass Extinction
- MASSEX_1_PROJECT:0 "Analysis: Broken"
- MASSEX_1_PROJECT_DESC:0 "Reconstruct the traumatic past of this celestial body."
- MASSEX_2_PROJECT:0 "Analysis: Burned"
- MASSEX_2_PROJECT_DESC:0 "Reconstruct the traumatic past of this celestial body."
- MASSEX_3_PROJECT:0 "Analysis: Desolate"
- MASSEX_3_PROJECT_DESC:0 "Reconstruct the traumatic past of this celestial body."
- MASSEX_4_PROJECT:0 "Analysis: Noxious"
- MASSEX_4_PROJECT_DESC:0 "Reconstruct the traumatic past of this celestial body."
- MASSEX_5_PROJECT:0 "Analysis: Chilly"
- MASSEX_5_PROJECT_DESC:0 "Reconstruct the traumatic past of this celestial body."
+ MASSEX_1_PROJECT:0 "Analiz: Parçalanmış"
+ MASSEX_1_PROJECT_DESC:0 "Bu gök cisiminin travmatik geçmişini yeniden yapılandırın."
+ MASSEX_2_PROJECT:0 "Analiz: Yanmış"
+ MASSEX_2_PROJECT_DESC:0 "Bu gök cisiminin travmatik geçmişini yeniden yapılandırın."
+ MASSEX_3_PROJECT:0 "Analiz: Harap Edilmiş"
+ MASSEX_3_PROJECT_DESC:0 "Bu gök cisiminin travmatik geçmişini yeniden yapılandırın."
+ MASSEX_4_PROJECT:0 "Analiz: Zehirli"
+ MASSEX_4_PROJECT_DESC:0 "Bu gök cisiminin travmatik geçmişini yeniden yapılandırın."
+ MASSEX_5_PROJECT:0 "Analiz: Soğuk"
+ MASSEX_5_PROJECT_DESC:0 "Bu gök cisiminin travmatik geçmişini yeniden yapılandırın."
