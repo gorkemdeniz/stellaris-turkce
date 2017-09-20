@@ -268,15 +268,15 @@
  # Species
  ####################################
 
- Human:0 "Human" # Needs to be localized, alone among all species
- Human_adj:0 "Human"
- Human_plural:0 "Humans"
- Human_insult:0 "Monkey"
- Human_insult_plural:0 "Monkeys"
- Human_compliment:0 "Angel"
- Human_compliment_plural:0 "Angels"
- Human_spawn:0 "baby"
- Human_spawn_plural:0 "babies"
+ Human:0 "İnsan" # Needs to be localized, alone among all species
+ Human_adj:0 "İnsan"
+ Human_plural:0 "İnsanlar"
+ Human_insult:0 "Maymun"
+ Human_insult_plural:0 "Maymunlar"
+ Human_compliment:0 "Melek"
+ Human_compliment_plural:0 "Melekler"
+ Human_spawn:0 "bebek"
+ Human_spawn_plural:0 "bebekler"
  Yondar_adj:0 "Yondari"
  Yondar_plural:0 "Yondarim"
  Ixidar_adj:0 "Ix'Idari"
