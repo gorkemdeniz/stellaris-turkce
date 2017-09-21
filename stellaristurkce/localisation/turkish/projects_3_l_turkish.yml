@@ -24,7 +24,7 @@
  ROBOT_CLEANERS_PROJECT:0 "Geride Bırakılmış Makineler"
  ROBOT_CLEANERS_PROJECT_DESC:0 "Uzaktaki bir gezegende robotlarla dolu bir tesis bulundu. Onları yeniden etkinleştirirsek, yaşadıkları yerin sırlarını açığa vurabilirler."
  ALIEN_MONSTER_ON_SHIP:0 "Gemideki Uzaylı"
- ALIEN_MONSTER_ON_SHIP_DESC:0 "Vahşi bir yaratık bilim gemimizi istila etti ve mürettebatı öldürmeye çalışıyor. Ordudan yardım almadan uzun süre dayanamazlar!"
+ ALIEN_MONSTER_ON_SHIP_DESC:0 "[Root.Owner.GetMonsterOnShipDesc]" #A custom scripted desc that allows for MI support
  TREE_OF_LIFE:0 "Ağaç"
  TREE_OF_LIFE_DESC:0 "Bir ağaç meydan okurcasına uzayın boşluğunda sürükleniyor. Onun özü, görkemli uzay kaynaklı organizmaları çekiyor gibi görünüyor. Amacını bulmak için araştırmalıyız."
  MASTERS_WRITINGS_POLITICS:0 "Göçmenlerin Metinlerini Çevirme"
