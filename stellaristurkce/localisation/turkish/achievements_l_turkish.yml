@@ -129,4 +129,5 @@
  NEW_ACHIEVEMENT_4_1_DESC:0 "İmparatorluğunuzda Ütopik yaşam koşulları altında yaşayan en az 10 farklı türe sahip olun"
  NEW_ACHIEVEMENT_4_2_NAME:0 "Zenodiyet"
  NEW_ACHIEVEMENT_4_2_DESC:0 "İmparatorluğunuzda en az 5 farklı türü Besi olarak tutun"
- 
+ #NEW_ACHIEVEMENT_4_3_NAME:0 "Does not compute"
+ #NEW_ACHIEVEMENT_4_4_DESC:0 "Shut down the contingency plan"

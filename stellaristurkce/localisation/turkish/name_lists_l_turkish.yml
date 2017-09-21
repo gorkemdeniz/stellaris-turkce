@@ -3,8 +3,8 @@
  ####################################
  # Species Classes
  ####################################
-
-
+ 
+ 
  HUM:0 "İnsansı"
  HUM_desc:1 "Tür Sınıfının İmparatorluğunuz üzerinde özel bir etkisi yoktur, ancak İnsansı sınıfı diğer İnsansıları, diğer türlere göre daha az yabancı gözüyle algılarlar."
  HUM_plural:0 "İnsansılar"
@@ -222,7 +222,7 @@
  PRE_MOL_compliment_plural_01:0 "krakenler"
  PRE_MOL_spawn:0 "larva"
  PRE_MOL_spawn_plural:0 "larvalar"
- PRE_MOL_sound_01:0 "çiğnemeler
+ PRE_MOL_sound_01:0 "çiğnemeler"
  PRE_MOL_sound_02:0 "çalkalanmalar"
  PRE_MOL_sound_03:0 "şapırdamalar"
  PRE_MOL_sound_04:0 "geğirmeler"
@@ -262,7 +262,25 @@
  ROBOT_organ:0 "anakart"
  ROBOT_mouth:0 "enerji giriş portu"
 
+ #MMACHINE: "Machine"
+ MACHINE_desc:0 "Species Class has no effect on your Empire, but Machine-class Species may consider other Machines to be less alien than other Species Classes."
+ MACHINE_plural:0 "Machines"
+ MACHINE_insult_01:0 "tin can"
+ MACHINE_insult_plural_01:0 "toasters"
+ MACHINE_compliment_01:0 "elegant automaton"
+ MACHINE_compliment_plural_01:0 "technological marvels"
+ MACHINE_spawn:0 "immature processing unit"
+ MACHINE_spawn_plural:0 "young automata"
+ MACHINE_sound_01:0 "whirring"
+ MACHINE_sound_02:0 "clanging"
+ MACHINE_sound_03:0 "scraping"
+ MACHINE_sound_04:0 "beeping"
+ MACHINE_sound_05:0 "chattering"
+ MACHINE_organ:0 "motherboard"
+ MACHINE_mouth:0 "energy intake port"
+ 
  SWARM:0 "Sürü"
+ EXD:0 "Extradimensionals"
 
  ####################################
  # Species
@@ -287,3 +305,5 @@
  Scyldari_plural:0 "Scyldaris"
  Kel-Azaan_plural:0 "Kel-Azaans"
  Paridni_plural:0 "Paridnis"
+ Iferyx_adj:0 "Iferyx"
+ Iferyx_plural:0 "Iferyssians"
